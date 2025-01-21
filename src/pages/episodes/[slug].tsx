@@ -40,6 +40,7 @@ export default function Episode({ episode }: EpisodeProps) {
                     height={160}
                     src={episode.thumbnail}
                     objectFit="cover"
+                    alt={`Thumbnail for ${episode.title}`}
                 />
                 <button type="button">
                     <img src="/play.svg" alt="Play"/>
