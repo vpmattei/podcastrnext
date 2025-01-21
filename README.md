@@ -136,7 +136,7 @@ Entre em contato por e-mail ou pelo GitHub:
     <img alt="GitHub License" src="https://img.shields.io/github/license/vpmattei/podcastrnext">
 </a>
 
-Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](https://github.com/vpmattei/podcastrnext/LICENSE.md) para mais detalhes.
+Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
 
