@@ -127,6 +127,8 @@ Entre em contato por e-mail ou pelo GitHub:
 
 <a href="mailto:viniciuspmattei@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://github.com/vpmattei"><img src="https://img.shields.io/badge/GitHub%20-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/vinícius-mattei/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
 
 ## 📝 Licença
 
@@ -134,7 +136,7 @@ Entre em contato por e-mail ou pelo GitHub:
     <img alt="GitHub License" src="https://img.shields.io/github/license/vpmattei/podcastrnext">
 </a>
 
-Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](https://github.com/vpmattei/podcastrnext/blob/main/LICENSE.md) para mais detalhes.
+Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](https://github.com/vpmattei/podcastrnext/LICENSE.md) para mais detalhes.
 
 ---
 
