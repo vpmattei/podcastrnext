@@ -1,7 +1,7 @@
 
 <div align="center">
    <img alt="podcastr" src=".github/podcastr.svg" width="40%"/>
-   <h3>Seu player de podcasts favorito</h3>
+   <h3>O melhor para você ouvir, sempre</h3>
 </div>
 <br/>
 <div align="center">
